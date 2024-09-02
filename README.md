@@ -1,4 +1,4 @@
-### Hi there, I'm Rizan! 👋 
+### Hi there! 👋 
 [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 
@@ -6,22 +6,10 @@
 
 I'm pursuing a Masters in Computer Applications from [Indira Gandhi National Open University](https://iop.ignouonline.ac.in/), India. 
 
-**Interests**:
-- Fullstack development
-- Data science
-- Machine learning/ Deep learning
-
- **I am open to**:
-
-- collaboration work,
-- machine learning projects (development/ research)
-
-
 **Currently, I'm**
 - learning to implement ml/ deep learning algorithms from scratch
 - working on rna-seq pipeline automation
  
-
 
 ## Skills:
 
@@ -57,15 +45,6 @@ I'm pursuing a Masters in Computer Applications from [Indira Gandhi National Ope
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <img src="logo-snake.svg" width="34" height="28"> &nbsp;![Snakemake](https://img.shields.io/badge/snakemake-green?style=for-the-badge&logo=&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-
-#### IDEs
-
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-
 
 
 ## Connect with me:
