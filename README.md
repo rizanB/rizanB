@@ -5,17 +5,15 @@
 
 ### Hi there! 👋 
 
-I'm pursuing a Masters in Computer Applications from [Indira Gandhi National Open University](https://iop.ignouonline.ac.in/), India. 
+I'm pursuing a Masters in Computer Applications from [Indira Gandhi National Open University](https://www.ignou.ac.in), India. 
 
+# Shodh ![version](https://img.shields.io/badge/v-1.0.0+3-brightgreen) 
+<a href="https://play.google.com/store/apps/details?id=com.zeroequalsone.shodh"><img src="./icons/google-play.svg" ></a>
 
-
-# Shodh &nbsp;![version](https://img.shields.io/badge/v-1.0.0-brightgreen)
-
-Shodh is built in Flutter and uses a Django REST backend. At present, it provides functionalities needed for viewing (and searching) past questions and syllabus for various programs. In future versions, I plan to include a research feed and some exciting features.
+Shodh is built in Flutter and uses a Django REST backend. At present, it provides functionalities needed for viewing (and searching) past questions and syllabus for various programs. In future versions, I plan to include a research feed, model questions and some exciting features!
 
 I also have plans to improve the aesthetics once I get the basic features working.
 
-<a href="https://play.google.com/store/apps/details?id=com.zeroequalsone.shodh"><img src="./icons/google-play.svg" ></a>
 
 <h2>Screenshots </h2>
 
@@ -35,7 +33,8 @@ I also have plans to improve the aesthetics once I get the basic features workin
 ![login page](./screenshots/3.jpg)
 
 </td>
-</tr></table>
+</tr></table> 
+
 
 ## Skills
 
