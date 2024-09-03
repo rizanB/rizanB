@@ -32,6 +32,6 @@ jobs:
       run: |
         git config --local user.email "rijann5@gmail.com"
         git config --local user.name "rizanB"
-        git add programming_languages_usage_radar.png README.md
-        git commit -m "cron_job: update radar chart in README.md for languages used" || echo "No changes to commit"
+        git add programming_languages_usage.png README.md
+        git commit -m "cron_job: update bar chart in README.md for languages used" || echo "No changes to commit"
         git push
