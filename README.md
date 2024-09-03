@@ -79,3 +79,8 @@ I also have plans to improve the aesthetics once I get the basic features workin
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@rizanb)
 
 </p>
+
+## Languages Used ##
+![Programming Languages Usage](programming_languages_usage.png)
+
+Please note that this doesn't reflect my proficiency with these languages. It's a fun diagram to see what languages are most used in my public repos. (Updated every day using cron/ github actions)
