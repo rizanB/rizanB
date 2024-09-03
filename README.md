@@ -1,19 +1,45 @@
+
+# Rizan B. &nbsp; [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+
+
+
 ### Hi there! 👋 
-[![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
-
-
-[2023 - Present]
 
 I'm pursuing a Masters in Computer Applications from [Indira Gandhi National Open University](https://iop.ignouonline.ac.in/), India. 
 
-**Currently, I'm**
-- learning to implement ml/ deep learning algorithms from scratch
-- working on rna-seq pipeline automation
- 
 
-## Skills:
 
-#### Languages:
+# Shodh &nbsp;![version](https://img.shields.io/badge/v-1.0.0-brightgreen)
+
+Shodh is built in Flutter and uses a Django REST backend. At present, it provides functionalities needed for viewing (and searching) past questions and syllabus for various programs. In future versions, I plan to include a research feed and some exciting features.
+
+I also have plans to improve the aesthetics once I get the basic features working.
+
+<a href="https://play.google.com/store/apps/details?id=com.zeroequalsone.shodh"><img src="./icons/google-play.svg" ></a>
+
+<h2>Screenshots </h2>
+
+<table><tr>
+<td>
+
+![Shodh app](./screenshots/1.jpg)
+
+</td>
+<td>
+
+![login page](./screenshots/2.jpg)
+
+</td>
+<td>
+
+![login page](./screenshots/3.jpg)
+
+</td>
+</tr></table>
+
+## Skills
+
+#### Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -44,7 +70,7 @@ I'm pursuing a Masters in Computer Applications from [Indira Gandhi National Ope
 ![UNIX](https://img.shields.io/badge/UNIX-FCC624?style=for-the-badge&logo=Linux&logoColor=black)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<img src="logo-snake.svg" width="34" height="28"> &nbsp;![Snakemake](https://img.shields.io/badge/snakemake-green?style=for-the-badge&logo=&logoColor=white)
+<img src="./icons/logo-snake.svg" width="34" height="28"> &nbsp;![Snakemake](https://img.shields.io/badge/snakemake-green?style=for-the-badge&logo=&logoColor=white)
 
 
 ## Connect with me:
