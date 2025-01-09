@@ -5,37 +5,6 @@
 
 ### Hi there! 👋 
 
-I'm pursuing a Masters in Computer Applications from [Indira Gandhi National Open University](https://www.ignou.ac.in), India. 
-
-# Shodh ![version](https://img.shields.io/badge/v-1.0.0+3-brightgreen) 
-<a href="https://play.google.com/store/apps/details?id=com.zeroequalsone.shodh"><img src="./icons/google-play.svg" ></a>
-
-Shodh is built in Flutter and uses a Django REST backend. At present, it provides functionalities needed for viewing (and searching) past questions and syllabus for various programs. In future versions, I plan to include a research feed, model questions and some exciting features!
-
-I also have plans to improve the aesthetics once I get the basic features working.
-
-
-<h2>Screenshots </h2>
-
-<table><tr>
-<td>
-
-![Shodh app](./screenshots/1.jpg)
-
-</td>
-<td>
-
-![login page](./screenshots/2.jpg)
-
-</td>
-<td>
-
-![login page](./screenshots/3.jpg)
-
-</td>
-</tr></table> 
-
-
 ## Skills
 
 #### Languages
