@@ -28,7 +28,7 @@ language_df.sort_values(by='Bytes', ascending=False, inplace=True)
 
 plt.figure(figsize=(10, 6))
 sns.barplot(data=language_df, x='Language', y='Bytes')
-plt.title('Languages on my repos')
+plt.title('Languages on my public repos')
 plt.xticks(rotation=45)
 plt.ylabel('Bytes of Code')
 plt.tight_layout()
