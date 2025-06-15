@@ -3,37 +3,40 @@ name: Update Bar Chart in README.md
 on:
   push:
     branches:
-      - main  
+      - main
   schedule:
-    - cron: '0 6 * * *'  
+    - cron: '0 6 * * *'
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
-
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.8'  
-
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests pandas matplotlib seaborn
-
-    - name: Run script to generate bar chart
-      run: python update_bar_chart.py  
-
-    - name: Commit and push changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.pat_token }}
-      run: |
-        git config --global user.name "rizanB"
-        git config --global user.email "rijann5@gmail.com"
-        git add programming_languages_usage.png README.md
-        git commit -m "cron_job: update bar chart in README.md" || echo "No changes to commit"
-        git push https://x-access-token:${GITHUB_TOKEN}@github.com/rizanB/rizanB.git HEAD:main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.pat_token }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas matplotlib seaborn
+      
+      - name: Run script to generate bar chart
+        run: python update_bar_chart.py
+      
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.pat_token }}
+        run: |
+          git config --global user.name "rizanB"
+          git config --global user.email "rijann5@gmail.com"
+          git add programming_languages_usage.png README.md
+          git commit -m "cron_job: update bar chart in README.md" || echo "No changes to commit"
+          git push origin main
