@@ -29,6 +29,8 @@ jobs:
           pip install requests pandas matplotlib seaborn
       
       - name: Run script to generate bar chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.pat_token }}
         run: python update_bar_chart.py
       
       - name: Commit and push changes
